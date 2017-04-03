@@ -18,7 +18,7 @@ namespace ProfileService
                 .UseStartup<Startup>()
                 .Build();
 
-            host.Run(); 
+            host.Run();
         }
     }
 }
